@@ -19,7 +19,7 @@
 
 ```bash
 mkdir -p ~/.claude/skills
-cp -r gemini-music-prompt ~/.claude/skills/
+cp -r game-audio-music-prompt ~/.claude/skills/
 ```
 
 然后在任何 Claude 会话中提供场景描述，自动使用。
