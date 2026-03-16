@@ -1,11 +1,8 @@
-# Claude Skills
+## Game Audio prompt Claude Skills
 
-我的自定义 Claude Skill 合集
 
-## 已有 Skill
-
-### gemini-music-prompt
-根据游戏/影视场景描述生成 Gemini 音乐创作提示词。
+### AI-music-prompt
+根据游戏/影视场景描述生成AI音乐创作提示词。
 
 **特点**：
 - 两阶段工作流（先找参考案例 → 再生成 prompt）
