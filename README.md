@@ -3,6 +3,7 @@
 
 ### AI-music-prompt
 根据游戏/影视场景描述生成AI音乐创作提示词。
+
 Generate AI music creation prompts based on the description of game/film scenes.
 
 **特点**：
@@ -10,7 +11,7 @@ Generate AI music creation prompts based on the description of game/film scenes.
 - 相符/割裂各 7 个参考案例（含 YouTube/Spotify 链接）
 - 严禁人声、只允许音乐语言
 - 基于真实作品的音乐参数提炼
-  **Features**:
+**Features**:
 - Two-stage workflow (first find reference cases → then generate prompt)
 - 7 reference cases each (including YouTube/Spotify links)
 - Prohibit human voices, only allow musical language
